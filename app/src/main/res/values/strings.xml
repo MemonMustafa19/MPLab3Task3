@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MPLab3Task3</string>
+    <string name="message">Message:</string>
+    <string name="getmessage">GetMessage</string>
+    <string name="type_message_here">Type Message Here :</string>
+    <string name="sendmessage">sendMessage</string>
+</resources>
